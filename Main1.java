@@ -4,7 +4,7 @@ public class Main1 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
     
-//input tigas bilangan bulat
+//input tiga bilangan bulat
     System.out.print("Masukan bilangan bulat pertama: ");
     int bil1=scanner.nextInt();
     System.out.print("Masukan bilangan bulat kedua: ");
